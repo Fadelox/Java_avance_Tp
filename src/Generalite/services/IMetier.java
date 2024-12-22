@@ -1,4 +1,4 @@
-package services;
+package Generalite.services;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package model;
+package Generalite.model;
 
 public class Produit {
     Long id;

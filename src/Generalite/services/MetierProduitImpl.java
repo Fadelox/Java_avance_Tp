@@ -1,6 +1,6 @@
-package services;
+package Generalite.services;
 
-import model.Produit;
+import Generalite.model.Produit;
 
 import java.util.ArrayList;
 import java.util.List;
